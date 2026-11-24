@@ -1,0 +1,19 @@
+web/src/api/index.ts
+  s_8022dd81b1e1e0::t_bdd5c957eb3753 178-179,181-185,195-196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1b2dc9a61cc9be9b97b3791baebe8465e3840d8b",
+  "prompts": {},
+  "sessions": {
+    "s_8022dd81b1e1e0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "725c34fd-3889-4165-9a95-57ddfd7f7bb3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Alexey Labosenko <v9lijj@adsterra.com>"
+    }
+  }
+}
