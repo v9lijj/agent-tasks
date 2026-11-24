@@ -1,0 +1,26 @@
+Dockerfile
+  s_d5851c6997a859::t_da0600d69e4d0a 4
+  s_d5851c6997a859::t_08485cde56e080 9-11
+  s_d5851c6997a859::t_43c8bcafb3390e 19-20
+.github/workflows/ci.yml
+  s_d5851c6997a859::t_5041dc9b9ac7d7 3-5
+  s_d5851c6997a859::t_fd2e357f57e7e3 53-55
+  s_d5851c6997a859::t_b4422f8c709d65 1-2
+  s_d5851c6997a859::t_16b36f96759410 80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bb68d706f97115976c13e42fed898dcabf25f801",
+  "prompts": {},
+  "sessions": {
+    "s_d5851c6997a859": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0a1e4e7-f087-4fd3-b04e-0dfc7a5c190c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Alexey Labosenko <v9lijj@adsterra.com>"
+    }
+  }
+}
